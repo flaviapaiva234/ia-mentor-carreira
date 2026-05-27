@@ -1,85 +1,149 @@
-# Resposta do Agente 1 – Entrevistador de Carreira (exemplo para perfil de QA iniciante)
+# Resposta do Agente 1 – Entrevistador de Carreira (exemplo real gerado com os prompts do projeto)
 
-Com base no seu perfil, identifiquei 3 carreiras muito promissoras:
+## 🤖 Simulação da entrevista com um perfil de usuário (10h/semana, interesse em QA e IA)
 
-════════════════════════════════════════════════════════════
-🥇 1º LUGAR: ANALISTA DE QUALIDADE (QA) / TESTER - 17/20
-════════════════════════════════════════════════════════════
+**Agente 1:** Olá! Sou o seu Especialista em Descoberta de Perfil Tech e estou aqui para ajudar você a mapear suas habilidades e objetivos para encontrar os melhores caminhos na tecnologia.
 
-💡 POR QUE COMBINA COM VOCÊ:
-Seu prazer em "entender sistemas" é o coração do trabalho de QA. Testar não é só apertar botões – é investigar como o sistema se comporta, encontrar falhas e pensar em cenários que ninguém imaginou. Seu interesse declarado por "Tester" e a familiaridade com GitHub/VS Code (para versionar testes ou automatizar scripts simples) dão uma vantagem inicial.
+Vamos começar a nossa entrevista guiada? Lembre-se de que vamos dar um passo de cada vez.
 
-⚖️ O QUE ESPERAR:
+---
 
-VANTAGENS:
-- Entrada mais rápida no mercado para quem vem do zero (existem muitos cursos e certificações práticas)
-- Você trabalha com dados (relatórios de bugs, métricas de qualidade, testes baseados em dados)
-- Possibilidade de evoluir para Automação de Testes e depois para QA de IA (testar sistemas inteligentes)
+### Pergunta 1
+**O que mais chama sua atenção na área de tecnologia?**
 
-DESAFIOS:
-- Exige atenção meticulosa aos detalhes e paciência para repetir processos
-- Em algumas empresas, o papel de QA manual pode ser desvalorizado – mas com automação você cresce rápido
+*Exemplos: resolver problemas; criar aplicações; trabalhar com dados; entender sistemas; automatizar tarefas.*
 
-📈 MERCADO:
-Alta demanda para QA em empresas de software, fintechs e e-commerce. O mercado para testes de IA está crescendo. (Salários e exigências variam por região e porte da empresa)
+**Usuário:** entender sistemas, criar aplicações
 
-════════════════════════════════════════════════════════════
-🥈 2º LUGAR: ANALISTA DE DADOS JÚNIOR - 15/20
-════════════════════════════════════════════════════════════
+**Agente 1:** Perfeito! Compreender o funcionamento de sistemas e o desejo de criar aplicações são ótimas bases para a tecnologia. Vamos para a próxima etapa:
 
-💡 POR QUE COMBINA COM VOCÊ:
-Você disse que prefere lidar com dados e gosta de entender sistemas. O analista de dados faz exatamente isso: descobre como os dados são gerados, organizados e transformados em insights. Seu interesse em IA é um ótimo combustível, porque a carreira de dados é o trampolim natural para evoluir para Ciência de Dados ou IA.
+---
 
-⚖️ O QUE ESPERAR:
+### Pergunta 2
+**Você já teve contato com programação ou está iniciando agora?**
 
-VANTAGENS:
-- Trabalho analítico, criativo e com forte componente de "solução de problemas"
-- Você pode aproveitar seu conhecimento de GitHub (versionar queries e notebooks) e VS Code
-- É uma carreira com evolução clara: Analista → Cientista de Dados → Engenheiro de IA
+**Usuário:** iniciando agora
 
-DESAFIOS:
-- Curva de aprendizado mais íngreme (SQL, estatística, visualização) – com 8h/semana, leva alguns meses
-- Para primeiro emprego, muitas vagas pedem experiência prática; portfólio é essencial
+**Agente 1:** Entendido, começar do zero é um momento empolgante e cheio de descobertas! Vamos para a terceira etapa:
 
-📈 MERCADO:
-Muito aquecido. Toda empresa que lida com dados precisa de analistas. Áreas como marketing, finanças e operações são grandes empregadoras.
+---
 
-════════════════════════════════════════════════════════════
-🥉 3º LUGAR: ANALISTA DE BI (BUSINESS INTELLIGENCE) - 13/20
-════════════════════════════════════════════════════════════
+### Pergunta 3
+**Quantas horas por semana você consegue dedicar aos estudos?**
 
-💡 POR QUE COMBINA COM VOCÊ:
-É um primo próximo do Analista de Dados, mas com foco em dashboards, indicadores e ferramentas como Power BI ou Tableau. Seu perfil de "entender sistemas" se traduz em entender como o negócio funciona e traduzir isso em painéis visuais. A preferência por dados continua valendo.
+**Usuário:** 10h
 
-⚖️ O QUE ESPERAR:
+**Agente 1:** Excelente, organizar esse tempo de forma consistente faz toda a diferença na jornada de aprendizado. Vamos para a próxima questão:
 
-VANTAGENS:
-- Curva de aprendizado um pouco mais suave que a de dados puros (mais ferramentas visuais, menos estatística pesada)
-- Resultados são muito tangíveis (dashboards bonitos e úteis) – bom para portfólio
-- Menos concorrência que desenvolvimento web, mas com boa empregabilidade
+---
 
-DESAFIOS:
-- Pode ser menos "técnico" do que você gostaria (menos código, mais cliques)
-- O interesse em IA fica mais distante nessa carreira, a menos que você migre depois
+### Pergunta 4
+**Qual atividade combina mais com você?**
 
-📈 MERCADO:
-Empresas de médio e grande porte têm times de BI consolidados. Ótima porta de entrada para transição de carreira.
+- trabalhar com pessoas;
+- analisar dados;
+- programar;
+- criar interfaces;
+- organizar processos.
 
-════════════════════════════════════════════════════════════
+**Usuário:** organizar processos
 
-Qual dessas carreiras te chamou mais atenção?
+**Agente 1:** Organizar processos é uma habilidade valiosa e muito requisitada para garantir a qualidade e a estrutura dos projetos de tecnologia. Vamos avançar para a próxima etapa:
 
-**ANALISTA DE QUALIDADE (QA)**
+---
 
-Excelente escolha! Vou te passar para meu colega especialista em ANALISTA DE QUALIDADE (QA) / TESTER. Ele vai montar todo o plano de estudos personalizado para você!
+### Pergunta 5
+**Qual seu principal objetivo atualmente?**
 
-🔁 TRANSFERÊNCIA PARA AGENTE 2
+- conseguir o primeiro emprego;
+- mudar de carreira;
+- evoluir profissionalmente;
+- trabalhar remotamente;
+- aumentar renda.
 
-Carreira escolhida: ANALISTA DE QUALIDADE (QA) / TESTER  
-Horas disponíveis por semana: 8h  
-Nível de experiência: zero (começando do zero)  
-Objetivo: transição de carreira  
-Preferência: dados  
-Interesses técnicos mencionados: Tester, Inteligência Artificial, GitHub, VS Code
+**Usuário:** trabalhar remotamente
 
-Agora é com você, Agent 2! 🚀
+**Agente 1:** Trabalhar remotamente traz uma excelente flexibilidade e é uma das grandes vantagens que o mercado de tecnologia oferece. Vamos para a penúltima pergunta:
+
+---
+
+### Pergunta 6
+**Quais áreas da tecnologia despertam mais interesse?**
+
+*Exemplos: desenvolvimento web; QA; dados; inteligência artificial; segurança; back-end; UX/UI.*
+
+**Usuário:** QA; inteligência artificial
+
+**Agente 1:** Ótimo! QA e Inteligência Artificial são áreas fantásticas, modernas e que estão super conectadas no mercado atual. Para fecharmos nossa entrevista, vamos à última pergunta:
+
+---
+
+### Pergunta 7
+**Existe alguma experiência anterior que possa ajudar na sua jornada em tecnologia?**  
+(Pode ser experiência profissional em outras áreas, estudos ou habilidades pessoais como atenção a detalhes, boa comunicação, etc.)
+
+**Usuário:** atenção a detalhes, entendo a lógica das coisas, organização e padronização.
+
+**Agente 1:** Obrigado por todas as suas respostas! Com base no seu perfil focado em organização, padronização, atenção aos detalhes e o desejo de entender sistemas, fiz uma análise detalhada para mapear as melhores opções para o seu momento de início e transição.
+
+---
+
+## 📊 Análise de Perfil e Recomendações
+
+### 🥇 1º LUGAR: QA (Garantia de Qualidade / Testes de Software)  
+**Pontuação:** 20/20
+
+**Motivos da recomendação:** Suas principais forças (atenção a detalhes, organização e padronização) são o coração do trabalho de um QA. Como você gosta de entender sistemas e organizar processos, o papel de validar se uma aplicação funciona como deveria se encaixa perfeitamente no seu perfil.
+
+**Vantagens:** Curva de aprendizado inicial muito amigável para quem está iniciando agora na tecnologia. Permite aplicar lógica sem exigir programação profunda logo no primeiro dia.
+
+**Desafios:** O mercado exige muita resiliência para documentar processos detalhadamente e paciência para investigar a causa raiz dos problemas.
+
+**Visão geral do mercado:** Alta demanda por profissionais que garantam a qualidade dos produtos, com excelente abertura para vagas remotas.
+
+---
+
+### 🥈 2º LUGAR: Análise de Processos de Negócio / Product Owner (PO)  
+**Pontuação:** 17/20
+
+**Motivos da recomendação:** Seu foco em organizar processos e padronização se alinha diretamente com o gerenciamento de como um sistema deve funcionar e quais regras ele deve seguir para atender aos usuários.
+
+**Vantagens:** Excelente uso de habilidades de organização e visão sistêmica, com menos foco em código puro e mais foco na lógica do negócio.
+
+**Desafios:** Exige forte comunicação e alinhamento constante entre equipes técnicas e áreas de negócio.
+
+**Visão geral do mercado:** O mercado valoriza profissionais estruturados para organizar o fluxo de trabalho de desenvolvimento, com ótimas oportunidades para atuação remota.
+
+---
+
+### 🥉 3º LUGAR: Desenvolvimento Back-End (Foco inicial em Lógica e APIs)  
+**Pontuação:** 15/20
+
+**Motivos da recomendação:** Você mencionou que gosta de entender a lógica das coisas e quer criar aplicações. O desenvolvimento Back-End cuida justamente da estrutura, regras e motores que fazem os sistemas funcionarem por trás dos panos.
+
+**Vantagens:** Atende ao seu desejo de criar aplicações e estimula fortemente o raciocínio lógico e a estruturação.
+
+**Desafios:** Como você está iniciando agora e tem 10h semanais para estudar, a curva de aprendizado técnica do desenvolvimento pode ser mais longa e exigir mais dedicação contínua.
+
+**Visão geral do mercado:** Mercado muito maduro, estável e com forte cultura de trabalho remoto, embora competitivo para posições de entrada.
+
+---
+
+## 🔄 Próximo Passo
+
+**Agente 1:** Qual dessas carreiras mais chamou sua atenção?
+
+**Usuário:** QA (Garantia de Qualidade / Testes de Software)
+
+---
+
+## 📤 Transferência para o Agente 2
+
+**carreira escolhida:** QA (Garantia de Qualidade / Testes de Software)  
+**horas disponíveis:** 10h  
+**experiência:** iniciando agora  
+**objetivo principal:** trabalhar remotamente  
+**perfil predominante:** organizar processos  
+**interesses técnicos:** QA; inteligência artificial
+
+Agora é com você, Agente 2! 🚀
