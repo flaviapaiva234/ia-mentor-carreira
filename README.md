@@ -1,40 +1,54 @@
+<!--START_SECTION:header-->
 <div align="center">
   <p align="center">
+    <img src="./assets/aperto-mao-robotica.png" alt="IA Mentor de Carreira" width="270px" />
     <h1>IA Mentor de Carreira</h1>
   </p>
 </div>
+<!--END_SECTION:header-->
 
 <p align="center">
   <a href="NIVEL">
-    <img src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=a435f0&labelColor=202024" alt="Nivel">
+    <img src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=484888&labelColor=202024" alt="Nivel" style="margin: 0 10px;">
   </a>
-  <img src="https://img.shields.io/static/v1?label=Status&message=Concluido&color=28a745&labelColor=202024" alt="Status" />
+  <img src="https://img.shields.io/static/v1?label=Status&message=Concluido&color=28a745&labelColor=202024" alt="Status" style="margin: 0 10px;" />
 </p>
 
-## 👩‍💻 Expert
+<br/>
 
-<table align="center">
+<table align="center" style="border-collapse: collapse; width: 80%;">
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 20px;">
       <a href="https://github.com/flaviapaiva234">
-        <img src="https://avatars.githubusercontent.com/flaviapaiva234" width="100px;" alt="Flávia Paiva"/><br>
-        <sub><b>Flávia Paiva</b></sub>
+        <img src="https://avatars.githubusercontent.com/flaviapaiva234" width="140px;" alt="Flávia Paiva" style="border-radius: 50%;"/>
+        <br/>
+        <span style="font-size: 1.6em; font-weight: bold;">Flávia Paiva</span>
       </a>
     </td>
-    <tr>
-      <p>🎯 Analista de QA Júnior.<br/>
-      🌟 Criadora do projeto IA Mentor de Carreira.<br/>
-      👩‍💻 Habilidades: Engenharia de Prompt, HTML, CSS, JavaScript, Lógica de Programação.
+    <td style="padding: 20px; vertical-align: top;">
+      <p style="margin: 8px 0; line-height: 1.8;">
+        🎯 <strong>Analista de QA Júnior</strong>
       </p>
-      <a href="https://www.linkedin.com/in/flaviapaiva234/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-      </a>
-      <a href="https://github.com/flaviapaiva234">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-      </a>
+      <p style="margin: 8px 0; line-height: 1.8;">
+        🌟 Criadora do projeto IA Mentor de Carreira
+      </p>
+      <p style="margin: 8px 0; line-height: 1.8;">
+        👩‍💻 Habilidades: Engenharia de Prompt, HTML, CSS, JavaScript, Lógica de Programação
+      </p>
+      <p style="margin: 8px 0;">
+        <a href="https://www.linkedin.com/in/flaviapaiva234/">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://github.com/flaviapaiva234">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        </a>
+      </p>
     </td>
   </tr>
 </table>
+
+<br/>
 
 ## 💻 Sobre o Projeto
 
